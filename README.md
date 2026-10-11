@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
 ![Docker](https://img.shields.io/badge/docker-ready-green.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ![Tests](https://img.shields.io/badge/tests-passing-green.svg)
 
 ## 🎯 Overview
@@ -400,13 +400,6 @@ To contribute:
 **Code of Conduct:**
 All contributors are expected to adhere to a standard of professional and respectful conduct. Please be considerate in all interactions.
 
-## 📄 License
-GHOST DMPM is released under the **MIT License**.
+## License
 
-This means you are free to:
-- Use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
-- Permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+GHOSTPROTOCOL is licensed under the **SWORD Restricted Source Licence v1.0 (SRSL-1.0)**. Personal and non-commercial use is permitted under its terms; commercial exploitation requires a separate written agreement. See [LICENSE](LICENSE).
