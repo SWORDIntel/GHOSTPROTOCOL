@@ -8,7 +8,7 @@ version = "1.0.0"
 description = "Discreet MVNO Policy Mapper for intelligence gathering."
 readme = "README.md"
 requires-python = ">=3.9"
-license = {text = "MIT License"} # Or file = "LICENSE.md" if LICENSE.md exists
+license = {text = "SWORD Restricted Source Licence (SRSL-1.1)"}
 authors = [
     {name = "GHOST Team", email = "contact@example.com"},
 ]

@@ -29,6 +29,7 @@ setup(
     author="GHOST Team",
     author_email="contact@example.com", # Placeholder
     description="Discreet MVNO Policy Mapper for intelligence gathering.",
+    license="SWORD Restricted Source Licence (SRSL-1.1)",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/your-repo/ghost-dmpm", # Placeholder
@@ -37,7 +38,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
-        "License :: OSI Approved :: MIT License", # Assuming MIT License from README
+        "License :: Other/Proprietary License",
         "Operating System :: OS Independent",
         "Development Status :: 4 - Beta", # Or appropriate status
         "Intended Audience :: Developers",
