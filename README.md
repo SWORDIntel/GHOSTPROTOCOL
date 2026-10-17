@@ -402,4 +402,4 @@ All contributors are expected to adhere to a standard of professional and respec
 
 ## License
 
-GHOSTPROTOCOL is licensed under the **SWORD Restricted Source Licence v1.0 (SRSL-1.0)**. Personal and non-commercial use is permitted under its terms; commercial exploitation requires a separate written agreement. See [LICENSE](LICENSE).
+GHOSTPROTOCOL is licensed under the **SWORD Restricted Source Licence v1.1 (SRSL-1.1)**. Personal and non-commercial use is permitted under its terms; commercial exploitation requires a separate written agreement. See [LICENSE](LICENSE) and [migration notes](SRSL_MIGRATION.md). Previously granted rights under earlier editions and any independently valid grants are not retrospectively revoked.
